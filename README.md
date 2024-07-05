@@ -6,10 +6,6 @@
 - 🤝 Looking to collaborate on social projects with a positive impact.
 - 📫 Reach me at [kleberson.toldo.soares@gmail.com](mailto:kleberson.toldo.soares@gmail.com)
 
-### 🚀 Projects and Contributions
-- [Project 1](link_to_project_1): Brief description of project 1.
-- [Project 2](link_to_project_2): Brief description of project 2.
-
 ### 🛠️ Skills
 - Python
 - Data Analysis
